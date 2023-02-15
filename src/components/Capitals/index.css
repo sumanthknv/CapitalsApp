@@ -1,0 +1,30 @@
+.app-bg-container {
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.card-container {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 20px 20px 20px 20px;
+}
+.heading {
+  font-family: roboto;
+  font-size: 23px;
+  color: #000000;
+  font-weight: bold;
+}
+.capitals-text {
+  padding: 8px;
+}
+.label {
+  margin: 5px;
+}
+.country {
+  font-family: roboto;
+  font-size: 20px;
+  color: #000000;
+  font-weight: bold;
+}
